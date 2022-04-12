@@ -12,9 +12,7 @@ Bonus:
 Attraverso un’altra chiamata api, filtrare gli album per genere
 */
 include __DIR__ ."/db/data.php";
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
